@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying at Turku University of Applied Sciences.
 - 🌱 I’m currently learning Software Development and learning to be a Full-stack Developer.
-- 👯 I’m a third year Bachelor of Engineering student and my study path is Software Engineering and Project Management.
+- 👯 I’m a fourth year Bachelor of Engineering student and my study path is Software Engineering and Project Management.
 <!--
 **VillePuisto/VillePuisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
