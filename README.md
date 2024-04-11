@@ -1,7 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently studying at Turku University of Applied Sciences.
-- 👯 I’m a fourth year Bachelor of Engineering student and my study path is Software Engineering and Project Management.
+- 👯 I graduated in Bachelor of Engineering in ICT and my study path is Software Engineering and Project Management.
 - ⚡ Working now in Digital Identity and Cyber Security
 <!--
 **VillePuisto/VillePuisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
