@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 - 👯 I graduated in Bachelor of Engineering in ICT and my study path is Software Engineering and Project Management.
+- I am now studien my Masters Degree in Cyber Security in Xamk.
 - ⚡ Working now in Digital Identity and Cyber Security
 <!--
 **VillePuisto/VillePuisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
